@@ -7,14 +7,14 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>0ED0F1CC-5589-4BC6-93D0-864BBCDFB624</string>
 	<key>IDESourceControlProjectName</key>
-	<string>project</string>
+	<string>tip</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>C09020768A74874EBD374B22605AB8EEF23A9593</key>
 		<string>https://github.com/cheeriocheng/hw0tip.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>tip.xcodeproj/project.xcworkspace</string>
+	<string>tip.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>C09020768A74874EBD374B22605AB8EEF23A9593</key>
